@@ -1,0 +1,6 @@
+NAME="nanopi"
+ADDRESS="192.168.42.1"
+ARCHITECTURE="arm-linux-gnueabihf"
+# If the password is provided the transfer of files from/to the board will be
+# done automatically, otherwise it will be asked for every time it's needed.
+PASSWORD=""
